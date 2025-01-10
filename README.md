@@ -25,5 +25,5 @@ We do not hae a permanent location. All of our classes are done at mobile locati
 These are the classes we curretly offer. For privately arranged classes there is a minimum size of 4.
 
 - [Macro board](./classes/macromini.md)
-- [Miniature painting](./classes/macromini.md)
-- [Computer assisted deign and manufacturing](./classes/macromini.md)
+- [Miniature painting](./classes/replacement-part.md)
+- [Computer assisted deign and manufacturing](./classes/slapchop.md)
