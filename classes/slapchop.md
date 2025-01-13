@@ -13,6 +13,11 @@ pros and cons of each
 
 why we use resin for miniatures
 
+# color theory
+
+- color wheels
+- color harmonies
+
 # Intro to painting tools (10 minutes )
 
 1. airbrush
