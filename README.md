@@ -27,3 +27,5 @@ These are the classes we curretly offer. For privately arranged classes there is
 - [Macro board](./classes/macromini.md)
 - [Miniature painting](./classes/replacement-part.md)
 - [Computer assisted deign and manufacturing](./classes/slapchop.md)
+
+# Bounty Board
